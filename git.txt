@@ -1,1 +1,11 @@
+Brief summary about git.
+
+Git is a free and open-source distributed version control system, originally created by 
+Linus Torvalds in 2005. Git operates on the principle of creating snapshots or "commits" 
+of your code at different stages, allowing you to revert to previous versions if needed. 
+It introduces the concept of a repository, which acts as a central storehouse for all your 
+project's files and their revision history. Git command prompt (git bash) serves as a powerful 
+tool for navigating your file system, executing commands, and interacting with git.  Git commands 
+allow the command prompt facilitates tasks such as cloning repositories, making commits, pushing 
+changes to remote servers, pull, merge and resolving conflicts. 
 

@@ -1,1 +1,26 @@
+Fundamental knowledge on Internet & Browsers
+
+The internet is a worldwide (global) network of computers connected to each other which communicate 
+through a standardized set of protocols. The Internet was established in the late 1960s under the 
+sponsorship of the Department of Defense and later through the National Science Foundation. The primary 
+applications of the Internet are e-mail, fi le transfer, the World Wide Web, e-commerce, searches, Voice 
+over Internet Protocol, and video. Also information transmission across the Internet are in form digital 
+signal transmitted from one computer to another in the over various mediums, including Ethernet cables, 
+fiber optic cables, and wireless signals (i.e., radio waves and microwave). The digital signal are secure 
+with help of encryption and public keys for safer transmission of information through the internet from 
+one computer to another. 
+
+The following are protocols that enable internet to function.
+Transmission control protocols (TCP) / internet Protocol (IP)
+Hypertext Transfer Protocol (HTTP) /HTTPS
+HTTP is the standard protocol by which webpages are transferred over the Internet
+File Transfer Protocol (FTP)
+Simple Mail Transfer Protocol (SMTP)
+Domain Name System (DNS)
+Secure Shell (SSH)
+
+Browsers are application software that allow people across the world to be view and 
+interact with a website via the internet. Examples of browsers are google chrome, firefox, 
+safari, edge, operamini, internet explorer and so on. Web developers works with different browsers
+to ensure their website been developed is well displayed on the web broswers.
 
